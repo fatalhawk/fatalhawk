@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @fatalhawk
 - 👀 I’m interested in open source contribution and AI
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate in python and java languages
+- 🌱 I’m currently learning DSA in C++
+- 💞️ I’m looking to collaborate in python and java
 - 📫 you can reach me via my mail
-- 😄 Pronouns: he/his
 - *fun fact: i use this username as my alias in games, as you may have guessed :)
 
 
