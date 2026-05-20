@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @fatalhawk
+- 👋 Hi, I’m Mayank
 - 👀 I’m interested in open source contribution and AI
-- 🌱 I’m currently learning DSA in C++
-- 💞️ I’m looking to collaborate in python and java
+- 🌱 I’m engaged in HPC and GPU optimizations
 - 📫 you can reach me via my mail
 - *fun fact: i use this username as my alias in games, as you may have guessed :)
 
